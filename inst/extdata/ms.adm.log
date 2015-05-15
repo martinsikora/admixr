@@ -1,0 +1,19 @@
+PLINK v1.90b2a 64-bit (4 Jul 2014) 
+7 arguments: --bfile ms --maf 0.025 --make-bed --out ms.adm
+Hostname: air
+Working directory: /Users/martinsikora/Dropbox/uni/src/admixr/inst/extdata
+Start time: Tue May 12 13:20:05 2015
+
+Random number seed: 1431429605
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+153540 variants loaded from .bim file.
+200 people (0 males, 0 females, 200 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ms.adm.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+117848 variants removed due to MAF threshold(s) (--maf/--max-maf).
+35692 variants and 200 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ms.adm.bed + ms.adm.bim + ms.adm.fam ... done.
+
+End time: Tue May 12 13:20:05 2015

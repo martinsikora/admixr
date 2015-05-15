@@ -1,0 +1,19 @@
+PLINK v1.90b2a 64-bit (4 Jul 2014) 
+7 arguments: --bfile ms.adm --make-bed --out ms.adm.ref --remove remove.indlist
+Hostname: air
+Working directory: /Users/martinsikora/Dropbox/uni/src/admixr/inst/extdata
+Start time: Tue May 12 13:27:59 2015
+
+Random number seed: 1431430079
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+35692 variants loaded from .bim file.
+200 people (0 males, 0 females, 200 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ms.adm.ref.nosex .
+--remove: 180 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+35692 variants and 180 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ms.adm.ref.bed + ms.adm.ref.bim + ms.adm.ref.fam ... done.
+
+End time: Tue May 12 13:27:59 2015

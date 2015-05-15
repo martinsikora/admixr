@@ -1,0 +1,20 @@
+PLINK v1.90b2a 64-bit (4 Jul 2014) 
+5 arguments: --make-bed --out ms --tfile ms
+Hostname: air
+Working directory: /Users/martinsikora/Dropbox/uni/src/admixr/inst/extdata
+Start time: Mon May 11 14:18:39 2015
+
+Random number seed: 1431346719
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+Processing .tped file.
+ms-temporary.bed + ms-temporary.bim + ms-temporary.fam written.
+153540 variants loaded from .bim file.
+200 people (0 males, 0 females, 200 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ms.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+153540 variants and 200 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to ms.bed + ms.bim + ms.fam ... done.
+
+End time: Mon May 11 14:18:40 2015
